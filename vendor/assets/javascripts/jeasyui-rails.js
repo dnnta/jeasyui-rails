@@ -1,1 +1,1 @@
-//= require jeasyui/jquery.easyui
+//= require jeasyui/jquery.easyui.min
