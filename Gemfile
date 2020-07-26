@@ -1,4 +1,4 @@
-source "http://rubygems.org"
+source 'https://gems.ruby-china.com'
 
-# Specify your gem's dependencies in jeasyui-rails.gemspec
+
 gemspec
